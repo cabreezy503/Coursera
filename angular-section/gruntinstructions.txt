@@ -1,0 +1,12 @@
+Global Installation:     npm install -g grunt-cli
+
+Local Project Installation:      npm install grunt --save-dev
+
+Creat Gruntfile.js
+
+JSHint Task:	     npm install grunt-contrib-jshint --save-dev
+		     npm install jshint-stylish --save-dev
+		     npm install time-grunt --save-dev
+		     npm install jit-grunt --save-dev
+
+"grunt" : local 
